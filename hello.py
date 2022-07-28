@@ -1,5 +1,7 @@
 num1=input('Enter your number:')
 num2=input('Enter your 2nd number:')
+num3=input('Enter your 3rd number:')
 print(num1)
 print(num2)
-print(int(num1)+int(num2))
+print(num3)
+print(int(num1)+int(num2)+int(num3))
