@@ -1,1 +1,5 @@
-print('hello')
+num1=input('Enter your number:')
+num2=input('Enter your 2nd number:')
+print(num1)
+print(num2)
+print(int(num1)+int(num2))
